@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre Mí
 
-Ingeniero en Informática con experiencia en desarrollo **Full-Stack** y **Mobile**. Me especializo en construir productos digitales con arquitectura sólida, APIs limpias, frontends rápidos y apps móviles pulidas. Actualmente trabajo en **Bee Fractal** como Front-End Developer y como Full-Stack Developer freelance en **Brouter SPA**.
+Ingeniero en Informática con experiencia en desarrollo **Full-Stack** y **Mobile**. Me especializo en construir productos digitales con arquitectura sólida, APIs limpias, frontends rápidos y apps móviles pulidas.
 
 ```typescript
 const paaanciitoo = {
