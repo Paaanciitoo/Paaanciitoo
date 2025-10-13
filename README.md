@@ -1,19 +1,19 @@
-```markdown
 <div align="center">
 
-# 👋 ¡Hola! Soy **Nicolás Machuca** (Paaanciitoo)
+# ¡Hola! 👋 Soy **Paaanciitoo**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack+%F0%9F%9A%80;React+%7C+Next.js+%7C+Laravel;Flutter+%7C+Node.js+%7C+AWS;Construyendo+el+futuro+digital+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=0A84FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Paaanciitoo+%F0%9F%91%8B;Desarrollador+Full-Stack;React+%7C+Next.js+%7C+Laravel;Flutter+%7C+Node.js+%7C+TailwindCSS;Construyendo+experiencias+digitales)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+**Desarrollador Full-Stack · Front-End · Mobile · UX/UI**  
+📍 Talca, Chile
 
-### 🌟 Desarrollador Full-Stack | Front-End | Mobile | UX/UI
-### 📍 Talca, Chile
+*Enfocado en soluciones limpias, escalables y con excelente experiencia de usuario*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasmachuca687)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmachuca86@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasmachuca687)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmachuca86@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56972939147)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Paaanciitoo&color=0A84FF&style=for-the-badge&label=Visitas+al+perfil)
 
 </div>
 
@@ -21,88 +21,113 @@
 
 ## 🚀 Sobre Mí
 
+Ingeniero en Informática con experiencia en desarrollo **Full-Stack** y **Mobile**. Me especializo en construir productos digitales con arquitectura sólida, APIs limpias, frontends rápidos y apps móviles pulidas. Actualmente trabajo en **Bee Fractal** como Front-End Developer y como Full-Stack Developer freelance en **Brouter SPA**.
+
 ```typescript
 const paaanciitoo = {
-    nombre: "Nicolás Machuca",
-    rol: "Ingeniero en Desarrollo Full-Stack",
-    ubicacion: "Talca, Chile 🇨🇱",
-    enfoque: ["Arquitectura Escalable", "UX/UI Excellence", "Clean Code"],
-    
-    especialidades: {
-        frontend: ["React", "Next.js", "TailwindCSS", "TypeScript"],
-        backend: ["Laravel", "Node.js", "PostgreSQL", "REST APIs"],
-        mobile: ["Flutter", "React Native"],
-        cloud: ["AWS", "Vercel", "Railway", "Docker"],
-        automation: ["n8n", "GitHub Actions", "CI/CD"]
+    nombre: "Nicolás Machuca Pavez",
+    ubicación: "📍 Talca, Chile",
+    empresa: ["Bee Fractal", "Brouter SPA (Freelance)"],
+    roles: ["Full-Stack Developer", "Front-End Developer", "Mobile Developer"],
+    especialización: [
+        "Arquitecturas Escalables",
+        "Optimización de Rendimiento", 
+        "UX/UI Design",
+        "Cloud & DevOps"
+    ],
+    logrosDestacados: {
+        rendimiento: "↓ 30% en tiempos de carga",
+        automatización: "↓ 40% en procesos manuales",
+        retención: "↑ 20% con mejoras UX/UI",
+        desarrollo: "↑ 30% en velocidad con arquitecturas modulares"
     },
-    
-    filosofia: "Código limpio, UX primero, entregas iterativas 🎯",
-    
-    estadisticas: {
-        optimizacionRendimiento: "20-30% mejora en carga",
-        automatizacion: "40% reducción procesos manuales",
-        retencionUX: "+20% en apps móviles"
-    }
+    filosofía: "Código limpio, modular y testeable con UX primero",
+    disponible: true,
+    idiomas: ["Español (Nativo)", "Inglés (C1)"]
 };
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
+---
+
+## 💼 Experiencia Profesional
+
+### 🔷 **Bee Fractal** — Desarrollador Front-End
+**Marzo 2025 - Actualidad** · Talca, Chile
+
+- ⚡ Desarrollo de interfaces dinámicas con **Laravel**, **React** y **n8n**, logrando **40% de reducción** en procesos manuales mediante automatización
+- 📱 Diseño e implementación de aplicaciones móviles con **Flutter**, aumentando la retención de usuarios en **20%** gracias a mejoras significativas de UX/UI
+- 🚀 Optimización del rendimiento de arquitectura de software aplicando técnicas de lazy loading y caching, disminuyendo tiempos de carga en **25%**
+- 🔄 Implementación de metodologías ágiles (**Scrum**) para mejorar la entrega continua y calidad de proyectos
+
+### 🔶 **Brouter SPA** — Desarrollador Full-Stack (Freelance)
+**Enero 2025 - Actualidad** · Talca, Chile
+
+- 🏗️ Desarrollo de soluciones completas con **Laravel**, **React** y bases de datos **SQL**, mejorando la velocidad de desarrollo en **30%** mediante arquitecturas modulares y reutilizables
+- 💳 Integración de sistemas de ecommerce con pasarelas de pago (Webpay, Flow, Mercado Pago) y sistemas de QR, optimizando la conversión de usuarios
+- 📊 Diseño y desarrollo de dashboards administrativos y sistemas de reservas con visualizaciones interactivas
+- ☁️ Gestión de despliegues en **Vercel** y **Railway** con pipelines automatizados de CI/CD
+
+### 💻 **Proyectos Personales** — Desarrollador Full-Stack
+**Enero 2022 - Actualidad** · Talca, Chile
+
+- 🎯 Desarrollo de aplicaciones con **Next.js**, **TailwindCSS** y **Firebase**, optimizando el rendimiento en **30%** mediante SSR/SSG y code splitting
+- 🔐 Implementación de sistemas de autenticación (JWT, OAuth), notificaciones en tiempo real con WebSockets y prototipos con lógica de negocio real
+- 📚 Documentación completa de proyectos en **GitHub** con código limpio y aplicación de principios SOLID
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-18.2+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4+-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-10+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20+-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-4+-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-3+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24+-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔧 Herramientas & Otros
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Herramientas & Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
@@ -110,218 +135,228 @@ const paaanciitoo = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paaanciitoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=0A84FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaanciitoo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=C9D1D9"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paaanciitoo&show_icons=true&theme=vue&title_color=0A84FF&icon_color=0A84FF&text_color=2C3E50&bg_color=ffffff&border_color=E5E7EB&count_private=true&include_all_commits=true"/>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paaanciitoo&theme=tokyonight&hide_border=true&background=0D1117&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaanciitoo&layout=compact&theme=vue&title_color=0A84FF&text_color=2C3E50&bg_color=ffffff&border_color=E5E7EB&langs_count=10"/>
 
-</div>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paaanciitoo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0A84FF&line=0A84FF&point=C9D1D9)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paaanciitoo&theme=vue&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF&border=E5E7EB"/>
 
 </div>
 
 ---
 
-## 🏆 Logros & Experiencia Destacada
+## 🏆 Métricas de Impacto
 
 <div align="center">
 
-| 🎯 Área | 📈 Impacto | 🔧 Tecnologías |
-|---------|-----------|----------------|
-| **Optimización de Rendimiento** | Reducción de carga 20-30% | SSR/SSG, Lazy Loading, Cache |
-| **Automatización de Procesos** | Reducción de tareas manuales 40% | n8n, APIs, GitHub Actions |
-| **Desarrollo Mobile** | Mejora de retención +20% | Flutter, UX/UI Design |
-| **Pipelines CI/CD** | Mejora en tiempos de entrega | Docker, GitHub Actions, AWS |
-| **Dashboards & Analytics** | KPIs interactivos en tiempo real | Power BI, Tableau, PostgreSQL |
+| 🎯 Optimización | ⚡ Automatización | 📱 UX/UI | 🚀 Desarrollo |
+|:---:|:---:|:---:|:---:|
+| **↓ 30%** tiempos de carga | **↓ 40%** procesos manuales | **↑ 20%** retención usuarios | **↑ 30%** velocidad desarrollo |
+| SSR/SSG + Lazy Loading | n8n + Integraciones | Flutter + Design Systems | Arquitecturas modulares |
 
 </div>
 
-### 💡 Experiencia Clave
+---
 
-```yaml
-Arquitectura_y_Desarrollo:
-  - Diseño de APIs RESTful escalables y seguras
-  - Implementación de SSR/SSG con Next.js para SEO y performance
-  - Desarrollo de apps móviles multiplataforma con Flutter
-  - Integración de sistemas de autenticación y autorización
+## 🎯 Áreas de Especialización
 
-DevOps_y_Cloud:
-  - Configuración de pipelines CI/CD automatizados
-  - Despliegue y gestión de infraestructura en AWS
-  - Containerización con Docker y orquestación
-  - Monitoreo y logging de aplicaciones en producción
-
-UX_UI_y_Frontend:
-  - Diseño de interfaces centradas en el usuario
-  - Implementación de design systems con TailwindCSS
-  - Optimización de Core Web Vitals y accesibilidad
-  - Animaciones y micro-interacciones fluidas
-
-Automatización_y_Datos:
-  - Workflows automatizados con n8n
-  - ETL y procesamiento de datos
-  - Dashboards interactivos con visualizaciones avanzadas
-  - Integración de múltiples APIs y servicios
+```mermaid
+mindmap
+  root((Paaanciitoo))
+    Frontend
+      React/Next.js
+      TailwindCSS
+      ShadCN UI
+      Flutter
+      TypeScript
+    Backend
+      Laravel
+      Node.js
+      REST APIs
+      Microservicios
+      PHP
+    Database
+      PostgreSQL
+      MySQL
+      MongoDB
+      Firebase
+    Cloud & DevOps
+      AWS
+      Azure
+      Vercel
+      Railway
+      Docker
+      CI/CD
+    Data & Analytics
+      Python
+      Tableau
+      Power BI
+      ML Basics
+    Automation
+      n8n
+      GitHub Actions
+      Webhooks
 ```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-</div>
 
 ---
 
 ## 🎓 Formación Académica
 
-<div align="center">
+### 🎓 **Ingeniería en Informática** — INACAP
+**2023 - 2025** · Titulado
+- 🥇 **Primer lugar** en el ranking académico
+- Especialización en desarrollo de software y arquitecturas escalables
 
-| 🎓 Título | 🏫 Institución | 📅 Estado |
-|-----------|---------------|-----------|
-| **Ingeniería en Informática** | INACAP | ✅ Titulado |
-| **Técnico Superior en Análisis de Sistemas** | INACAP | ✅ Titulado |
-
-</div>
+### 🎓 **Técnico Superior en Análisis de Sistemas** — INACAP
+**2021 - 2022** · Titulado
+- Fundamentos de análisis, diseño y programación de sistemas
 
 ---
 
-## 💼 Filosofía de Trabajo
+## 💡 Proyectos Destacados
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 Código Limpio] --> B[📐 Arquitectura Sólida]
-    B --> C[🎨 UX Primero]
-    C --> D[📊 Métricas Claras]
-    D --> E[🚀 Entregas Iterativas]
-    E --> F[📚 Documentación]
-    F --> A
+### 🔸 **Sistemas de Ecommerce Completos**
+```yaml
+Tecnologías: Laravel, React, PostgreSQL, Stripe
+Características:
+  - Integración con pasarelas de pago (Webpay, Flow, Mercado Pago)
+  - Sistema de gestión de inventario en tiempo real
+  - Pagos con QR y códigos de descuento
+  - Dashboard administrativo con métricas de conversión
+  - Optimización de checkout (reducción de abandono)
 ```
 
-</div>
+### 🔸 **Dashboards Administrativos Interactivos**
+```yaml
+Tecnologías: Next.js, TailwindCSS, Recharts, PostgreSQL
+Características:
+  - Visualización de KPIs en tiempo real
+  - Sistemas de reservas y agendamiento
+  - Reportes exportables (PDF, Excel)
+  - Gestión de usuarios con roles y permisos
+  - Notificaciones push y por email
+```
 
-### ⚡ Principios Core
+### 🔸 **Aplicaciones Móviles Multiplataforma**
+```yaml
+Tecnologías: Flutter, Firebase, REST APIs
+Características:
+  - Diseño UX/UI centrado en el usuario
+  - Autenticación biométrica
+  - Sincronización offline-first
+  - Push notifications
+  - Analytics integrado
+```
 
-- ✨ **Código Limpio**: Modular, testeable y mantenible
-- 🎨 **UX Primero**: Decisiones guiadas por usuarios reales
-- 📊 **Data-Driven**: Métricas y KPIs en cada iteración
-- 🔄 **Entregas Iterativas**: MVP → Feedback → Mejora continua
-- 📚 **Documentación**: Código autodocumentado y docs actualizadas
-- 🤝 **Colaboración**: GitFlow, code reviews y mentoría
-
----
-
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Sistema de Gestión Empresarial
-**Stack**: Next.js, Laravel, PostgreSQL, AWS
-
-- Dashboard interactivo con KPIs en tiempo real
-- Automatización de procesos con n8n
-- Reducción de 40% en tareas manuales
-- Arquitectura escalable y modular
-
-</td>
-<td width="50%">
-
-### 📱 App Móvil E-Commerce
-**Stack**: Flutter, Node.js, MongoDB
-
-- Experiencia de usuario optimizada
-- Integración con pasarelas de pago
-- +20% mejora en retención de usuarios
-- Notificaciones push y analytics
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Plataforma de Analytics
-**Stack**: React, Express, PostgreSQL, Power BI
-
-- Visualizaciones interactivas avanzadas
-- ETL automatizado de múltiples fuentes
-- Reportes personalizables en tiempo real
-- Integración con APIs externas
-
-</td>
-<td width="50%">
-
-### 🔧 Sistema de Automatización
-**Stack**: n8n, Python, APIs REST
-
-- Workflows complejos automatizados
-- Integración de 15+ servicios externos
-- Reducción de 50% en tiempo de procesos
-- Monitoreo y alertas en tiempo real
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📫 Contacto & Redes
-
-<div align="center">
-
-### 💬 ¿Hablamos de tu próximo proyecto?
-
-Estoy disponible para colaboraciones, consultoría técnica y oportunidades laborales.
-
-<br>
-
-[![Email](https://img.shields.io/badge/📧_Email-nmachuca86@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmachuca86@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-nicolasmachuca687-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasmachuca687)
-
-[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-+56_9_7293_9147-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56972939147)
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-### ⭐ Si te gusta mi trabajo, no olvides dejar una estrella en mis repos
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Paaanciitoo&label=Visitas%20al%20Perfil&color=0A84FF&style=for-the-badge" alt="profile views" />
-
-**Última actualización**: Enero 2025 🚀
-
-</div>
+### 🔸 **Automatizaciones con n8n**
+```yaml
+Tecnologías: n8n, Webhooks, APIs REST
+Características:
+  - Integración entre múltiples plataformas
+  - Automatización de tareas repetitivas
+  - Notificaciones automáticas
+  - Sincronización de datos entre sistemas
+  - Reducción del 40% en procesos manuales
 ```
 
 ---
 
-He creado un README completamente renovado con:
+## 🧩 Filosofía de Desarrollo
 
-✅ **Animaciones modernas** - GIFs animados, typing SVG mejorado, gráficos de actividad
-✅ **Badges actualizados** - Todos los badges con estilo moderno y consistente
-✅ **Estructura visual mejorada** - Secciones bien organizadas con tablas, código y diagramas
-✅ **Estadísticas de GitHub** - Múltiples visualizaciones con tema oscuro coherente
-✅ **Sección de proyectos** - Tabla con proyectos destacados completamente descritos
-✅ **Filosofía de trabajo** - Diagrama Mermaid y principios claros
-✅ **Información completa** - Sin espacios en blanco, todo 100% completado
-✅ **Diseño profesional** - Centrado, con iconos, emojis y elementos visuales atractivos
-✅ **Contacto destacado** - Sección final con todos los métodos de contacto
+<div align="center">
 
-El README está listo para copiar y pegar directamente en tu perfil de GitHub. ¡Todo está completo y no necesitas añadir nada! 🚀
+> *"El código limpio no se escribe siguiendo un conjunto de reglas.*  
+> *El profesionalismo y la artesanía provienen de los valores que impulsan la disciplina."*  
+> **— Robert C. Martin**
+
+</div>
+
+### ✨ Mis Principios
+
+- **💎 Código Limpio**: Priorizando legibilidad, mantenibilidad y principios SOLID
+- **🎯 UX Primero**: Decisiones de producto guiadas por las necesidades del usuario
+- **⚡ Performance**: Optimización constante del rendimiento y tiempos de carga
+- **🏗️ Arquitectura Escalable**: Diseños modulares que crecen con el negocio
+- **📊 Data-Driven**: Entregas iterativas medibles con métricas claras
+- **📝 Documentación**: Código autodocumentado y documentación técnica al día
+- **🔄 Mejora Continua**: Aprendizaje constante de nuevas tecnologías y mejores prácticas
+- **🤝 Comunicación Clara**: Trabajo en equipo efectivo y feedback constructivo
+
+---
+
+## 🏅 Logros Destacados
+
+<div align="center">
+
+| 🥇 Académico | 🚀 Técnico | 💼 Profesional | 🎯 Impacto |
+|:---:|:---:|:---:|:---:|
+| Primer lugar ranking INACAP | Pipelines CI/CD automatizados | Mentoría en buenas prácticas | Reducción 25-30% tiempos carga |
+| Titulación con honores | Dashboards con KPIs interactivos | GitFlow & Code Reviews | Mejora 20% retención usuarios |
+| 2 títulos profesionales | Arquitecturas microservicios | Metodologías ágiles (Scrum) | Automatización 40% procesos |
+
+</div>
+
+---
+
+## 🌐 Idiomas
+
+<div align="center">
+
+![Español](https://img.shields.io/badge/Español-Nativo-0A84FF?style=for-the-badge)
+![Inglés](https://img.shields.io/badge/Inglés-C1_(Avanzado)-0A84FF?style=for-the-badge)
+
+</div>
+
+---
+
+## 🤝 Disponible Para
+
+<div align="center">
+
+| 💼 | 🤝 | 🎓 | 💡 |
+|:---:|:---:|:---:|:---:|
+| **Proyectos Freelance** | **Colaboraciones Open Source** | **Mentoría & Code Reviews** | **Consultoría Técnica** |
+| Desarrollo Full-Stack | Contribuciones a proyectos | Revisión de código | Arquitectura de software |
+| Apps Web y Móviles | Pair programming | Mejores prácticas | Optimización de rendimiento |
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+### ¿Quieres colaborar en un proyecto o necesitas una consultoría?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasmachuca687-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasmachuca687)
+[![Email](https://img.shields.io/badge/Email-nmachuca86@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmachuca86@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+56_9_7293_9147-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56972939147)
+
+### 📍 Ubicación: Talca, Chile
+
+</div>
+
+---
+
+## 📈 Actividad Reciente en GitHub
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+### 💻 *"Construyendo el futuro digital, una línea de código a la vez"*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**⭐️ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios**
+
+---
+
+**Made with ❤️ by Paaanciitoo**
+
+</div>
