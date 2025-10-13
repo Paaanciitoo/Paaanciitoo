@@ -49,8 +49,8 @@ Ingeniero en desarrollo con foco en **React / Next.js, Laravel y Flutter**. Me d
 ---
 
 # 🎓 Formación & Certificaciones
-- **Ingeniería en Informática** — INACAP (Titulado). :contentReference[oaicite:5]{index=5}  
-- **Técnico Superior en Análisis de Sistemas** — INACAP (Titulado). :contentReference[oaicite:6]{index=6}
+- **Ingeniería en Informática** — INACAP (Titulado).
+- **Técnico Superior en Análisis de Sistemas** — INACAP (Titulado).
 
 ---
 
