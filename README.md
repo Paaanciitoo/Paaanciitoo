@@ -1,7 +1,6 @@
 # ¡Hola! 👋 Soy **Paaanciitoo**
 > Desarrollador **Full-Stack** · Front-End · Mobile · UX/UI  
 > Talca, Chile · Desarrollador enfocado en soluciones limpias, escalables y con excelente experiencia de usuario.  
-> Basado en la información de tu CV. :contentReference[oaicite:0]{index=0}
 
 <!-- Hero + typing animation -->
 [![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=700&color=0A84FF&background=ffffff00&center=true&width=850&lines=Hola%2C+soy+Paaanciitoo!;Desarrollador+Full-Stack+%E2%9C%8A;React+%7C+Next.js+%7C+Laravel+%7C+Flutter)](https://git.io/typing-svg)
