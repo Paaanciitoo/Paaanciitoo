@@ -1,7 +1,5 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy **Paaanciitoo**
-
 [![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=0A84FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Paaanciitoo+%F0%9F%91%8B;Desarrollador+Full-Stack;React+%7C+Next.js+%7C+Laravel;Flutter+%7C+Node.js+%7C+TailwindCSS;Construyendo+experiencias+digitales)](https://git.io/typing-svg)
 
 **Desarrollador Full-Stack · Front-End · Mobile · UX/UI**  
