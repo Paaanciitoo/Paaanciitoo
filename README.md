@@ -18,7 +18,7 @@ Desarrollador Full-Stack con foco en interfaces modernas y arquitectura escalabl
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&link=mailto:nmachuca86@gmail.com)](mailto:nmachuca86@gmail.com) 
 [![Phone](https://img.shields.io/badge/-+56%209%207293%209147-34A853?logo=phone&logoColor=white)](tel:+56972939147)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paaanciitoo&layout=compact&theme=radical)
 
 ---
 
@@ -60,24 +60,23 @@ Desarrollador Full-Stack con foco en interfaces modernas y arquitectura escalabl
 > *Links: reemplaza `REPO_LINK` por la URL de tu repo.*
 
 - **Project Name 1** — Aplicación Next.js + Tailwind (E-commerce / Admin).  
-  `🔗 REPO: https://github.com/REPLACE_WITH_GITHUB_USERNAME/repo-1`  
+  `🔗 REPO: https://github.com/Paaanciitoo/repo-1`  
   *Highlights:* autenticación, pasarela de pagos, optimización SSR/SSG.
 
 - **Project Name 2** — App móvil en Flutter (retención +20%).  
-  `🔗 REPO: https://github.com/REPLACE_WITH_GITHUB_USERNAME/repo-2`  
+  `🔗 REPO: https://github.com/Paaanciitoo/repo-2`  
   *Highlights:* notificaciones, UX centrado en usuario, despliegue en stores (prototipo).
 
 - **Project Name 3** — Automatizaciones y API (Laravel + n8n).  
-  `🔗 REPO: https://github.com/REPLACE_WITH_GITHUB_USERNAME/repo-3`
+  `🔗 REPO: https://github.com/Paaanciitoo/repo-3`
 
 > *Nota:* Todos los proyectos mencionados están documentados en GitHub con código y buenas prácticas. :contentReference[oaicite:3]{index=3}
 
 ---
 
 ## 📊 Estadísticas de GitHub
-<!-- Sustituye REPLACE_WITH_GITHUB_USERNAME por tu usuario real -->
-![Nicolás's GitHub stats](https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_GITHUB_USERNAME&show_icons=true&count_private=true)
-![Nicolás's Streak](https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_GITHUB_USERNAME&date_format=%Y-%m-%d)
+![Nicolás's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paaanciitoo&show_icons=true&count_private=true)
+![Nicolás's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paaanciitoo&date_format=%Y-%m-%d)
 
 ---
 
@@ -111,7 +110,7 @@ Desarrollador Full-Stack con foco en interfaces modernas y arquitectura escalabl
 ---
 
 ## 🛠️ Cómo personalizar rápido
-1. Reemplaza `REPLACE_WITH_GITHUB_USERNAME` por tu usuario real de GitHub para activar las estadísticas.  
+1. Reemplaza `Paaanciitoo` por tu usuario real de GitHub para activar las estadísticas.  
 2. Cambia los enlaces `REPO:` por las URLs reales de tus repositorios.  
 3. Si quieres que agregue un GIF, un cover image o generar las tarjetas con tus repos reales, dime tu usuario de GitHub y lo configuro aquí.  
 
