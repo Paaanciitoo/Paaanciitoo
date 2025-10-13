@@ -27,7 +27,6 @@ Ingeniero en Informática con experiencia en desarrollo **Full-Stack** y **Mobil
 const paaanciitoo = {
     nombre: "Nicolás Machuca Pavez",
     ubicación: "📍 Talca, Chile",
-    empresa: ["Bee Fractal", "Brouter SPA (Freelance)"],
     roles: ["Full-Stack Developer", "Front-End Developer", "Mobile Developer"],
     especialización: [
         "Arquitecturas Escalables",
@@ -46,34 +45,6 @@ const paaanciitoo = {
     idiomas: ["Español (Nativo)", "Inglés (C1)"]
 };
 ```
-
----
-
-## 💼 Experiencia Profesional
-
-### 🔷 **Bee Fractal** — Desarrollador Front-End
-**Marzo 2025 - Actualidad** · Talca, Chile
-
-- ⚡ Desarrollo de interfaces dinámicas con **Laravel**, **React** y **n8n**, logrando **40% de reducción** en procesos manuales mediante automatización
-- 📱 Diseño e implementación de aplicaciones móviles con **Flutter**, aumentando la retención de usuarios en **20%** gracias a mejoras significativas de UX/UI
-- 🚀 Optimización del rendimiento de arquitectura de software aplicando técnicas de lazy loading y caching, disminuyendo tiempos de carga en **25%**
-- 🔄 Implementación de metodologías ágiles (**Scrum**) para mejorar la entrega continua y calidad de proyectos
-
-### 🔶 **Brouter SPA** — Desarrollador Full-Stack (Freelance)
-**Enero 2025 - Actualidad** · Talca, Chile
-
-- 🏗️ Desarrollo de soluciones completas con **Laravel**, **React** y bases de datos **SQL**, mejorando la velocidad de desarrollo en **30%** mediante arquitecturas modulares y reutilizables
-- 💳 Integración de sistemas de ecommerce con pasarelas de pago (Webpay, Flow, Mercado Pago) y sistemas de QR, optimizando la conversión de usuarios
-- 📊 Diseño y desarrollo de dashboards administrativos y sistemas de reservas con visualizaciones interactivas
-- ☁️ Gestión de despliegues en **Vercel** y **Railway** con pipelines automatizados de CI/CD
-
-### 💻 **Proyectos Personales** — Desarrollador Full-Stack
-**Enero 2022 - Actualidad** · Talca, Chile
-
-- 🎯 Desarrollo de aplicaciones con **Next.js**, **TailwindCSS** y **Firebase**, optimizando el rendimiento en **30%** mediante SSR/SSG y code splitting
-- 🔐 Implementación de sistemas de autenticación (JWT, OAuth), notificaciones en tiempo real con WebSockets y prototipos con lógica de negocio real
-- 📚 Documentación completa de proyectos en **GitHub** con código limpio y aplicación de principios SOLID
-
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -350,8 +321,6 @@ Características:
 <div align="center">
 
 ### 💻 *"Construyendo el futuro digital, una línea de código a la vez"*
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 **⭐️ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios**
 
