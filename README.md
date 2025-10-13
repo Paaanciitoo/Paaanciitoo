@@ -130,48 +130,6 @@ const paaanciitoo = {
 
 ---
 
-## 🎯 Áreas de Especialización
-
-```mermaid
-mindmap
-  root((Paaanciitoo))
-    Frontend
-      React/Next.js
-      TailwindCSS
-      ShadCN UI
-      Flutter
-      TypeScript
-    Backend
-      Laravel
-      Node.js
-      REST APIs
-      Microservicios
-      PHP
-    Database
-      PostgreSQL
-      MySQL
-      MongoDB
-      Firebase
-    Cloud & DevOps
-      AWS
-      Azure
-      Vercel
-      Railway
-      Docker
-      CI/CD
-    Data & Analytics
-      Python
-      Tableau
-      Power BI
-      ML Basics
-    Automation
-      n8n
-      GitHub Actions
-      Webhooks
-```
-
----
-
 ## 🎓 Formación Académica
 
 ### 🎓 **Ingeniería en Informática** — INACAP
@@ -308,15 +266,6 @@ Características:
 ### 📍 Ubicación: Talca, Chile
 
 </div>
-
----
-
-## 📈 Actividad Reciente en GitHub
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
 
