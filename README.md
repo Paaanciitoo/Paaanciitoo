@@ -101,20 +101,6 @@ const paaanciitoo = {
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paaanciitoo&show_icons=true&theme=vue&title_color=0A84FF&icon_color=0A84FF&text_color=2C3E50&bg_color=ffffff&border_color=E5E7EB&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaanciitoo&layout=compact&theme=vue&title_color=0A84FF&text_color=2C3E50&bg_color=ffffff&border_color=E5E7EB&langs_count=10"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paaanciitoo&theme=vue&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF&border=E5E7EB"/>
-
-</div>
-
----
-
 ## 🏆 Métricas de Impacto
 
 <div align="center">
