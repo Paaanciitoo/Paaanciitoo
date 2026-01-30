@@ -1,224 +1,155 @@
-<div align="center">
+# Nicolás Machuca Pavez
 
-[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=0A84FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Paaanciitoo+%F0%9F%91%8B;Desarrollador+Full-Stack;React+%7C+Next.js+%7C+Laravel;Flutter+%7C+Node.js+%7C+TailwindCSS;Construyendo+experiencias+digitales)](https://git.io/typing-svg)
+**Full-Stack Developer · Front-End Specialist · Mobile Developer**
 
-**Desarrollador Full-Stack · Front-End · Mobile · UX/UI**  
-📍 Chile
+Based in Chile · Open to remote opportunities
 
-*Enfocado en soluciones limpias, escalables y con excelente experiencia de usuario*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasmachuca687)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmachuca86@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56972939147)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Paaanciitoo&color=0A84FF&style=for-the-badge&label=Visitas+al+perfil)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasmachuca687)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nmachuca86@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
 
 ---
 
-## 🚀 Sobre Mí
+## About Me
 
-Ingeniero en Informática con experiencia en desarrollo **Full-Stack** y **Mobile**. Me especializo en construir productos digitales con arquitectura sólida, APIs limpias, frontends rápidos y apps móviles pulidas.
+Computer Engineer with expertise in Full-Stack and Mobile development. I specialize in building scalable digital products with clean architecture, efficient APIs, performant frontends, and polished mobile applications.
 
 ```typescript
-const paaanciitoo = {
-    nombre: "Nicolás Machuca Pavez",
-    ubicación: "📍 Chile",
-    roles: ["Full-Stack Developer", "Front-End Developer", "Mobile Developer"],
-    especialización: [
-        "Arquitecturas Escalables",
-        "Optimización de Rendimiento", 
-        "UX/UI Design",
-        "Cloud & DevOps"
-    ],
-    logrosDestacados: {
-        rendimiento: "↓ 30% en tiempos de carga",
-        automatización: "↓ 40% en procesos manuales",
-        retención: "↑ 20% con mejoras UX/UI",
-        desarrollo: "↑ 30% en velocidad con arquitecturas modulares"
-    },
-    filosofía: "Código limpio, modular y testeable con UX primero",
-    disponible: true,
-    idiomas: ["Español (Nativo)", "Inglés (C1)"]
+const profile = {
+  name: "Nicolás Machuca Pavez",
+  location: "Chile",
+  roles: [
+    "Full-Stack Developer",
+    "Front-End Specialist", 
+    "Mobile Developer"
+  ],
+  expertise: [
+    "Scalable Architectures",
+    "Performance Optimization",
+    "User Experience Design",
+    "Cloud Infrastructure"
+  ],
+  impact: {
+    performance: "30% reduction in load times",
+    automation: "40% reduction in manual processes",
+    retention: "20% increase through UX improvements",
+    velocity: "30% faster development cycles"
+  },
+  philosophy: "Clean, modular, testable code with UX-first approach",
+  languages: ["Spanish (Native)", "English (C1)"]
 };
 ```
+
 ---
 
-## 🛠️ Stack Tecnológico
+## Technical Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-18.2+-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-4+-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-10+-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20+-43853D?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4+-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat&logo=php&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-3+-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3+-0175C2?style=flat&logo=dart&logoColor=white)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8+-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6+-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-24+-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+---
+
+## Key Metrics
+
+| Performance Optimization | Process Automation | User Experience | Development Velocity |
+|:------------------------:|:------------------:|:---------------:|:--------------------:|
+| 30% faster load times | 40% less manual work | 20% better retention | 30% increased speed |
+| SSR/SSG + Code Splitting | n8n + API Integration | Design Systems | Modular Architecture |
+
+---
+
+## Education
+
+**Computer Engineering** — INACAP (2023-2025)
+- Graduated with top honors (1st in class ranking)
+- Specialized in software development and scalable architectures
+
+**Technical Degree in Systems Analysis** — INACAP (2021-2022)
+- Foundation in analysis, design, and system programming
+
+---
+
+## Featured Projects
+
+### E-Commerce Platforms
+Complete online store solutions with payment gateway integration (Webpay, Flow, Mercado Pago), real-time inventory management, QR payments, discount systems, and conversion-optimized checkout flows.
+
+**Stack:** Laravel · React · PostgreSQL · Stripe
+
+### Administrative Dashboards
+Interactive management interfaces with real-time KPIs, booking and scheduling systems, exportable reports (PDF/Excel), role-based access control, and integrated notifications.
+
+**Stack:** Next.js · TailwindCSS · Recharts · PostgreSQL
+
+### Cross-Platform Mobile Apps
+User-centric mobile applications featuring biometric authentication, offline-first synchronization, push notifications, and integrated analytics.
+
+**Stack:** Flutter · Firebase · REST APIs
+
+### Workflow Automation
+Multi-platform integrations reducing manual processes by 40% through automated tasks, webhooks, real-time notifications, and cross-system data synchronization.
+
+**Stack:** n8n · Webhooks · REST APIs
+
+---
+
+## Development Philosophy
+
+**Clean Code** — Prioritizing readability, maintainability, and SOLID principles
+
+**UX-First** — Product decisions driven by user needs and behavior
+
+**Performance** — Continuous optimization of load times and responsiveness
+
+**Scalable Architecture** — Modular designs that grow with business requirements
+
+**Data-Driven** — Measurable iterative deliveries with clear metrics
+
+**Documentation** — Self-documenting code with up-to-date technical docs
+
+**Continuous Improvement** — Constant learning of new technologies and best practices
+
+---
+
+## Contact
+
+Feel free to reach out for collaboration opportunities or technical discussions.
+
+- **Email:** [nmachuca86@gmail.com](mailto:nmachuca86@gmail.com)
+- **LinkedIn:** [nicolasmachuca687](https://linkedin.com/in/nicolasmachuca687)
+- **WhatsApp:** [+56 9 7293 9147](https://wa.me/56972939147)
+
+---
 
 <div align="center">
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-18.2+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4+-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-10+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20+-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-4+-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-3+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24+-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Data & Analytics
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Herramientas & Otros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+  
+![](https://komarev.com/ghpvc/?username=Paaanciitoo&color=0A84FF&style=flat&label=Profile+Views)
 
 </div>
-
----
-
-## 🏆 Métricas de Impacto
-
-<div align="center">
-
-| 🎯 Optimización | ⚡ Automatización | 📱 UX/UI | 🚀 Desarrollo |
-|:---:|:---:|:---:|:---:|
-| **↓ 30%** tiempos de carga | **↓ 40%** procesos manuales | **↑ 20%** retención usuarios | **↑ 30%** velocidad desarrollo |
-| SSR/SSG + Lazy Loading | n8n + Integraciones | Flutter + Design Systems | Arquitecturas modulares |
-
-</div>
-
----
-
-## 🎓 Formación Académica
-
-### 🎓 **Ingeniería en Informática** — INACAP
-**2023 - 2025** · Titulado
-- 🥇 **Primer lugar** en el ranking académico
-- Especialización en desarrollo de software y arquitecturas escalables
-
-### 🎓 **Técnico Superior en Análisis de Sistemas** — INACAP
-**2021 - 2022** · Titulado
-- Fundamentos de análisis, diseño y programación de sistemas
-
----
-
-## 💡 Proyectos Destacados
-
-### 🔸 **Sistemas de Ecommerce Completos**
-```yaml
-Tecnologías: Laravel, React, PostgreSQL, Stripe
-Características:
-  - Integración con pasarelas de pago (Webpay, Flow, Mercado Pago)
-  - Sistema de gestión de inventario en tiempo real
-  - Pagos con QR y códigos de descuento
-  - Dashboard administrativo con métricas de conversión
-  - Optimización de checkout (reducción de abandono)
-```
-
-### 🔸 **Dashboards Administrativos Interactivos**
-```yaml
-Tecnologías: Next.js, TailwindCSS, Recharts, PostgreSQL
-Características:
-  - Visualización de KPIs en tiempo real
-  - Sistemas de reservas y agendamiento
-  - Reportes exportables (PDF, Excel)
-  - Gestión de usuarios con roles y permisos
-  - Notificaciones push y por email
-```
-
-### 🔸 **Aplicaciones Móviles Multiplataforma**
-```yaml
-Tecnologías: Flutter, Firebase, REST APIs
-Características:
-  - Diseño UX/UI centrado en el usuario
-  - Autenticación biométrica
-  - Sincronización offline-first
-  - Push notifications
-  - Analytics integrado
-```
-
-### 🔸 **Automatizaciones con n8n**
-```yaml
-Tecnologías: n8n, Webhooks, APIs REST
-Características:
-  - Integración entre múltiples plataformas
-  - Automatización de tareas repetitivas
-  - Notificaciones automáticas
-  - Sincronización de datos entre sistemas
-  - Reducción del 40% en procesos manuales
-```
-
----
-
-## 🧩 Filosofía de Desarrollo
-
-<div align="center">
-
-> *"El código limpio no se escribe siguiendo un conjunto de reglas.*  
-> *El profesionalismo y la artesanía provienen de los valores que impulsan la disciplina."*  
-> **— Robert C. Martin**
-
-</div>
-
-### ✨ Mis Principios
-
-- **💎 Código Limpio**: Priorizando legibilidad, mantenibilidad y principios SOLID
-- **🎯 UX Primero**: Decisiones de producto guiadas por las necesidades del usuario
-- **⚡ Performance**: Optimización constante del rendimiento y tiempos de carga
-- **🏗️ Arquitectura Escalable**: Diseños modulares que crecen con el negocio
-- **📊 Data-Driven**: Entregas iterativas medibles con métricas claras
-- **📝 Documentación**: Código autodocumentado y documentación técnica al día
-- **🔄 Mejora Continua**: Aprendizaje constante de nuevas tecnologías y mejores prácticas
-- **🤝 Comunicación Clara**: Trabajo en equipo efectivo y feedback constructivo
-
----
-
-## 🏅 Logros Destacados
-
-<div align="center">
-
-| 🥇 Académico | 🚀 Técnico | 💼 Profesional | 🎯 Impacto |
-|:---:|:---:|:---:|:---:|
-| Primer lugar ranking INACAP | Pipelines CI/CD automatizados | Mentoría en buenas prácticas | Reducción 25-30% tiempos carga |
-| Titulación con honores | Dashboards con KPIs interactivos | GitFlow & Code Reviews | Mejora 20% retención usuarios |
-| 2 títulos profesionales | Arquitecturas microservicios | Metodologías ágiles (Scrum) | Automatización 40% procesos |
-
-</div>
-
----
-
-## 🌐 Idiomas
-
-<div align="center">
-
-![Español](https://img.shields.io/badge/Español-Nativo-0A84FF?style=for-the-badge)
-![Inglés](https://img.shields.io/badge/Inglés-C1_(Avanzado)-0A84FF?style=for-the-badge)
-
-</div>
-
----
