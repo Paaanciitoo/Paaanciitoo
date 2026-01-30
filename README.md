@@ -147,9 +147,3 @@ Feel free to reach out for collaboration opportunities or technical discussions.
 - **WhatsApp:** [+56 9 7293 9147](https://wa.me/56972939147)
 
 ---
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=Paaanciitoo&color=0A84FF&style=flat&label=Profile+Views)
-
-</div>
