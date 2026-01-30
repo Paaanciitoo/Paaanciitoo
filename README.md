@@ -145,5 +145,3 @@ Feel free to reach out for collaboration opportunities or technical discussions.
 - **Email:** [nmachuca86@gmail.com](mailto:nmachuca86@gmail.com)
 - **LinkedIn:** [nicolasmachuca687](https://linkedin.com/in/nicolasmachuca687)
 - **WhatsApp:** [+56 9 7293 9147](https://wa.me/56972939147)
-
----
